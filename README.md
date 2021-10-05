@@ -42,7 +42,7 @@ https://tristanlibeau-workout-traker.herokuapp.com/
 
 * The following Image shows the final application
 
-![alt text](./img/workout-traker.png)
+![alt text](./img/workout-tracker.png)
 
 
 ## Credits
